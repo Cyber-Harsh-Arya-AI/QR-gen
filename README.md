@@ -4,7 +4,7 @@
 A modern, responsive QR Code Generator built with React, Vite, and Tailwind CSS. Generate custom QR codes for URLs, text, emails, and more with real-time preview.
 
 ## 🚀 Live Demo
-(qr-gen-sand-eight.vercel.app)
+[(qr-gen-sand-eight.vercel.app)](https://qr-gen-sand-eight.vercel.app/)
 ## ✨ Features
 
 - **⚡ Instant Generation** - Real-time QR code generation
