@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = harsharyaofficial27@gmail.com:Cyber-Harsh-Arya-AI/QR-generator.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
